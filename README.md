@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0205-isomorphic-strings) |
@@ -72,10 +73,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
