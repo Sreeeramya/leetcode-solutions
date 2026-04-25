@@ -8,10 +8,8 @@ class Solution {
             if(sentences[i].charAt(j)==' '){
                 c++;
             }
-            if(c+1>max){
-                max=c+1;
             }
-            }
+            max=Math.max(c+1,max);
             
         }
         return max;
