@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0232-implement-queue-using-stacks](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0844-backspace-string-compare](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Design
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1528-shuffle-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1528-shuffle-string) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0844-backspace-string-compare](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 ## Recursion
 |  |
@@ -160,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
