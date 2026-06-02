@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0976-largest-perimeter-triangle](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
@@ -199,4 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0724-find-pivot-index) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
