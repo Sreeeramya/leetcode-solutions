@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0904-fruit-into-baskets](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0976-largest-perimeter-triangle](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1528-shuffle-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [0904-fruit-into-baskets](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1796-second-largest-digit-in-a-string) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Counting
 |  |
