@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0976-largest-perimeter-triangle](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1095-find-in-mountain-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 | [1528-shuffle-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1095-find-in-mountain-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 ## Simulation
 |  |
 | ------- |
@@ -295,4 +297,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0278-first-bad-version) |
+| [1095-find-in-mountain-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
