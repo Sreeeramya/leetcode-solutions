@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -277,10 +280,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0724-find-pivot-index) |
 ## Heap (Priority Queue)
 |  |
