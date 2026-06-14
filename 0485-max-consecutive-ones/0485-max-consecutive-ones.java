@@ -5,11 +5,9 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             if(nums[i]==1){
                 c++;
+                max=Math.max(c,max);
             }
-            max=Math.max(c,max);
-            
-            
-            if(nums[i]!=1){
+            else{
                 c=0;
             }
         }
