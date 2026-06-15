@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0976-largest-perimeter-triangle](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0905-sort-array-by-parity](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1859-sorting-the-sentence](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 ## Two Pointers
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [0905-sort-array-by-parity](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
