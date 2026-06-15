@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0647-palindromic-substrings) |
