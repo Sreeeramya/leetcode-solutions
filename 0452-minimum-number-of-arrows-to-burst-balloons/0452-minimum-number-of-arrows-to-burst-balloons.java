@@ -2,6 +2,10 @@ class Solution {
     public int findMinArrowShots(int[][] points) {
         Arrays.sort(points,(a,b)->Integer.compare(a[0],b[0]));
         int c=1;
+        if(points.length==0){
+            return 0;
+            
+        }
         int prev[]=points[0];
         for(int i=1;i<points.length;i++){
             int curr[]=points[i];
