@@ -13,7 +13,7 @@ class Solution {
             i++;
         }
         l1.add(newInterval);
-        while(i<n && intervals[i][0]>newInterval[1]){
+        while(i<n){
             l1.add(intervals[i]);
             i++;
         }
