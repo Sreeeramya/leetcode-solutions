@@ -8,7 +8,7 @@ class MinStack {
     
     public void push(int value) {
         s1.push(value);
-        if(s2.size()==0 || value<=s2.peek()){
+        if(s2.isEmpty() || value<=s2.peek()){
             s2.push(value);
         }
     }
@@ -25,7 +25,7 @@ class MinStack {
     }
     
     public int getMin() {
-        if(s2.size()==0){
+        if(s2.isEmpty()){
             return -1;
         }
         return s2.peek();
