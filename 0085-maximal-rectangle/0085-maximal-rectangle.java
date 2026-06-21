@@ -14,7 +14,7 @@ class Solution {
                     v[j]=0;
                 }
                 else{
-                    v[j]++;
+                    v[j]+=matrix[i][j]-'0';
                 }
             }
             max=Math.max(max,histogram(v));
