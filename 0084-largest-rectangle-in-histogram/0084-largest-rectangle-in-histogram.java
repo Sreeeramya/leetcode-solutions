@@ -3,8 +3,7 @@ class Solution {
         int n=heights.length;
         int left[]=new int[n];;
         Stack<Integer> s1=new Stack<>();
-        int i=0;
-        while(i<=n-1){
+        for(int i=0;i<n;i++){
             while(!s1.isEmpty() && heights[s1.peek()]>=heights[i]){
                 s1.pop();
             }
@@ -12,27 +11,25 @@ class Solution {
                 left[i]=s1.peek();
 
             }
-            if(s1.isEmpty()){
+            else{
                 left[i]=-1;
             }
             s1.push(i);
-            i++;
         }
         s1.clear();
-        i=n-1;
+        
         int right[]=new int[n];
-        while(i>=0){
+        for(int i=n-1;i>=0;i--){
             while(!s1.isEmpty() && heights[s1.peek()]>=heights[i]){
                 s1.pop();
             }
             if(!s1.isEmpty()){
                 right[i]=s1.peek();
             }
-            if(s1.isEmpty()){
+            else{
                 right[i]=n;
             }
             s1.push(i);
-            i--;
         }
         int max_area=0;
         for(int j=0;j<n;j++){
