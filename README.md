@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2000-reverse-prefix-of-word](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1528-shuffle-string) |
