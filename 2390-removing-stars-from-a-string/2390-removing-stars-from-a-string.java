@@ -2,7 +2,7 @@ class Solution {
     public String removeStars(String s) {
         Stack<Character> s1=new Stack<>();
         for(char ch:s.toCharArray()){
-            if(!s1.isEmpty() && ch=='*'){
+            if(ch=='*'){
                 s1.pop();
             }
             else{
