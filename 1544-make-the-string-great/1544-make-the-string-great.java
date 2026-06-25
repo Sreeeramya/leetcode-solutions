@@ -9,13 +9,10 @@ class Solution {
                 s1.push(ch);
             }
         }
-        if(s1.size()>0){
         StringBuilder str=new StringBuilder();
         for(char c:s1){
             str.append(c);
         }
         return str.toString();
-        }
-        return "";
     }
 }
