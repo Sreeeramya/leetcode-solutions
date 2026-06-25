@@ -8,10 +8,7 @@ class Solution {
                     s1.pop();
                 }
             }
-            else if(s.equals("")){
-                continue;
-            }
-            else if(s.equals(".")){
+            else if(s.equals("")|| s.equals(".") ){
                 continue;
             }
             else{
@@ -21,7 +18,7 @@ class Solution {
         StringBuilder s2=new StringBuilder();
         s2.append("/");
         for(String s:s1){
-            s2.append(s+"/");
+            s2.append(s).append("/");
         }
         if(s2.length()>1){
             s2.deleteCharAt(s2.length()-1);
