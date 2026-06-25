@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
+| [2390-removing-stars-from-a-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2390-removing-stars-from-a-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2390-removing-stars-from-a-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Dynamic Programming
 |  |
