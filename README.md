@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [0791-custom-sort-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0917-reverse-only-letters) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0791-custom-sort-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [0905-sort-array-by-parity](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [0791-custom-sort-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [0904-fruit-into-baskets](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
