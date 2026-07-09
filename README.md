@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [0859-buddy-strings](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0859-buddy-strings) |
 | [0916-word-subsets](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0916-word-subsets) |
 | [0917-reverse-only-letters](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0791-custom-sort-string) |
+| [0859-buddy-strings](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0859-buddy-strings) |
 | [0904-fruit-into-baskets](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0916-word-subsets](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0916-word-subsets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
