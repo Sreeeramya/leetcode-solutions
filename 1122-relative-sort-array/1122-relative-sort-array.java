@@ -1,6 +1,5 @@
 class Solution {
     public int[] relativeSortArray(int[] arr1, int[] arr2) {
-        int c=0;
         HashMap<Integer,Integer> h1=new HashMap<>();
         int ab=0;
         for(int a:arr1){
@@ -13,12 +12,11 @@ class Solution {
                 int freq=h1.get(b);
                 for(int j=0;j<freq;j++){
                     arr[i++]=b;
-                    c++;
                 }
             }
             h1.remove(b);
         }
-        int m[]=new int[arr1.length-c];
+        int m[]=new int[arr1.length-i];
         for(int a:h1.keySet()){
             int freq=h1.get(a);
             for(int j=0;j<freq;j++){
