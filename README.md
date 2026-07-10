@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0205-isomorphic-strings) |
@@ -548,4 +550,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1122-relative-sort-array) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
