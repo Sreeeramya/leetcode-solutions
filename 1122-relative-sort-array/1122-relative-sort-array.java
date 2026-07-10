@@ -1,7 +1,7 @@
 class Solution {
     public int[] relativeSortArray(int[] arr1, int[] arr2) {
         int c=0;
-        LinkedHashMap<Integer,Integer> h1=new LinkedHashMap<>();
+        HashMap<Integer,Integer> h1=new HashMap<>();
         int ab=0;
         for(int a:arr1){
             h1.put(a,h1.getOrDefault(a,0)+1);
@@ -18,13 +18,8 @@ class Solution {
             }
             h1.remove(b);
         }
-        HashMap<Integer,Integer> h2=new HashMap<>();
-        
-        for(int a:h1.keySet()){
-            h2.put(a,h1.get(a));
-        }
         int m[]=new int[arr1.length-c];
-        for(int a:h2.keySet()){
+        for(int a:h1.keySet()){
             int freq=h1.get(a);
             for(int j=0;j<freq;j++){
                 m[ab++]=a;
