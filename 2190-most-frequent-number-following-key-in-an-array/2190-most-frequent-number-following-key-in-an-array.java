@@ -1,6 +1,7 @@
 class Solution {
     public int mostFrequent(int[] nums, int key) {
         int max=Integer.MIN_VALUE;
+        int ans=0;
         HashMap<Integer,Integer> h1=new HashMap<>();
         for(int i=0;i<nums.length-1;i++){
             if(nums[i]==key){
@@ -10,13 +11,9 @@ class Solution {
         for(int a:h1.keySet()){
             if(h1.get(a)>max){
                 max=Math.max(h1.get(a),max);
+                ans=a;
             }
         }
-        for(int a:h1.keySet()){
-            if(h1.get(a)==max){
-                return a;
-            }
-        }
-        return 0;
+        return ans;
     }
 }
