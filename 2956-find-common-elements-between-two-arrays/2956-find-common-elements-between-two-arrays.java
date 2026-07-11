@@ -3,22 +3,22 @@ class Solution {
         int c1=0;
         int c2=0;
         int answer[]=new int[2];
-        HashMap<Integer,Integer> h1=new HashMap<>();
+        HashSet<Integer> h1=new HashSet<>();
         for(int a:nums1){
-            h1.put(a,h1.getOrDefault(a,0)+1);
+            h1.add(a);
         }
-        HashMap<Integer,Integer> h2=new HashMap<>();
+        HashSet<Integer> h2=new HashSet<>();
         for(int a:nums2){
-            h2.put(a,h2.getOrDefault(a,0)+1);
+            h2.add(a);
         }
         for(int a:nums1){
-            if(h2.containsKey(a)){
+            if(h2.contains(a)){
                 c1++;
             }
         }
         
         for(int a:nums2){
-            if(h1.containsKey(a)){
+            if(h1.contains(a)){
                c2++;
             }
         }
