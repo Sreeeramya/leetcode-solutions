@@ -9,14 +9,16 @@ class Solution {
         for(int a:bobSizes){
             sum2+=a;
         }
-        for(int i=0;i<aliceSizes.length;i++){
-            for(int j=0;j<bobSizes.length;j++){
-                if(sum1-aliceSizes[i]+bobSizes[j]==sum2-bobSizes[j]+aliceSizes[i]){
-                arr[0]=aliceSizes[i];
-                arr[1]=bobSizes[j];
+        HashSet<Integer> h1=new HashSet<>();
+        for(int b:bobSizes){
+            h1.add(b);
+        }
+        int dif=(sum2-sum1)/2;
+        for(int a:aliceSizes){
+            if(h1.contains(a+dif)){
+                arr[0]=a;
+                arr[1]=a+dif;
             }
-            }
-            
         }
         return arr;
     }
