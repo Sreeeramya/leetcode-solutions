@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1436-destination-city) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1528-shuffle-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1528-shuffle-string) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1436-destination-city) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
