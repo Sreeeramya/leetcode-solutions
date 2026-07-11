@@ -10,7 +10,7 @@ class Solution {
         }
         for(int a:h1.keySet()){
             if(h1.get(a)>max){
-                max=Math.max(h1.get(a),max);
+                max=h1.get(a);
                 ans=a;
             }
         }
