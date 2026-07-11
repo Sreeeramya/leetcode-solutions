@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1436-destination-city) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1122-relative-sort-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1122-relative-sort-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1859-sorting-the-sentence](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0986-interval-list-intersections](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0986-interval-list-intersections) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1813-sentence-similarity-iii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1813-sentence-similarity-iii) |
 | [2000-reverse-prefix-of-word](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1436-destination-city) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -493,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Simulation
 |  |
 | ------- |
