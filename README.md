@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2129-capitalize-the-title](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2129-capitalize-the-title) |
 | [2211-count-collisions-on-a-road](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2390-removing-stars-from-a-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
