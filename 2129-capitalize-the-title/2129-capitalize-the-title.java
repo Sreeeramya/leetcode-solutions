@@ -2,7 +2,7 @@ class Solution {
     public String capitalizeTitle(String title) {
         String s[]=title.split(" ");
         for(int i=0;i<s.length;i++){
-            if(s[i].length()==1 || s[i].length()==2){
+            if(s[i].length()<=2){
                 s[i]=s[i].toLowerCase();
             }
             else{
@@ -11,8 +11,7 @@ class Solution {
         }
         StringBuilder str=new StringBuilder();
         for(String a:s){
-            str.append(a);
-            str.append(" ");
+            str.append(a).append(" ");
         }
         return str.toString().trim();
     }
