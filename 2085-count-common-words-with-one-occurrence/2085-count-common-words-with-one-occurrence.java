@@ -9,8 +9,8 @@ class Solution {
         for(String s:words2){
             h2.put(s,h2.getOrDefault(s,0)+1);
         }
-        for(String s:words1){
-            if(h1.containsKey(s) && h2.containsKey(s) && h1.get(s)==1 && h2.get(s)==1){
+        for(String s:h1.keySet()){
+            if(h2.containsKey(s) && h1.get(s)==1 && h2.get(s)==1){
                 c++;
             }
         }
