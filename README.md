@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2390-removing-stars-from-a-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2490-circular-sentence](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2490-circular-sentence) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
