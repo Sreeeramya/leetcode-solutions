@@ -9,14 +9,15 @@ class Solution {
         return "";
     }
     public boolean reverse(String s){
-        String s1="";
-        char ch[]=s.toCharArray();
-        for(int i=s.length()-1;i>=0;i--){
-            s1+=s.charAt(i);
+        int l=0;
+        int r=s.length()-1;
+        while(l<r){
+            if(s.charAt(l)!=s.charAt(r)){
+                return false;
+            }
+            l++;
+            r--;
         }
-        if(s.equals(s1)){
-            return true;
-        }
-        return false;
+        return true;
     }
 }
