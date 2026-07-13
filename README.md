@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-sentence-similarity-iii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1813-sentence-similarity-iii) |
 | [1816-truncate-sentence](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1817-finding-the-users-active-minutes](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1817-finding-the-users-active-minutes) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2129-capitalize-the-title) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-finding-the-users-active-minutes](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1817-finding-the-users-active-minutes) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
