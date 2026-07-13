@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2938-separate-black-and-white-balls](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2938-separate-black-and-white-balls) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3110-score-of-a-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3110-score-of-a-string) |
 ## Greedy
 |  |
 | ------- |
