@@ -6,8 +6,6 @@ class Solution {
             if(p.size()>k){
                 p.poll();
             }
-            
-            
         }
         return p.peek();
     }
