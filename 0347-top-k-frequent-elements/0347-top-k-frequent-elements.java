@@ -15,8 +15,8 @@ class Solution {
                 p.poll();
             }
         }
-        for(int a:p){
-            ans[i]=a;
+        while(!p.isEmpty()){
+            ans[i]=p.poll();
             i++;
         }
         return ans;
