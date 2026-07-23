@@ -9,9 +9,9 @@ class Solution {
         );
         for(int p1[]:points){
             p.offer(p1);
-        }
-        while(!p.isEmpty() && p.size()>k){
-            p.poll();
+            if(p.size()>k){
+                p.poll();
+            }
         }
         int ans[][]=new int[k][2];
         for(int i=0;i<k;i++){
