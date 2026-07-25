@@ -24,8 +24,7 @@ public class Solution {
             l2++;
             temp2=temp2.next;
         }
-        temp1=headA;
-        temp2=headB;
+        
         ListNode f=headA;
         ListNode s=headB;
         if(l1>l2){
