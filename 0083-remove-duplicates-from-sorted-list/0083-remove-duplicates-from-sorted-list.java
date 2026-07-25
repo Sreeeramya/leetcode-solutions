@@ -10,26 +10,43 @@
  */
 class Solution {
     public ListNode deleteDuplicates(ListNode head) {
-        if(head==null){
-            return null;
-        }
-        else if(head.next==null){
+        // if(head==null){
+        //     return null;
+        // }
+        // else if(head.next==null){
+        //     return head;
+        // }
+        // ListNode s=head.next;
+        // ListNode prev=head;
+        // while(s!=null){
+        //     if(prev.val==s.val){
+        //         prev.next=s.next;
+        //         s=s.next;
+        //     }
+        //     else{
+                
+        //         prev=s;
+        //         s=s.next;
+        //     }
+            
+        // }
+        // return head;
+        if(head==null || head.next==null){
             return head;
         }
-        ListNode s=head.next;
-        ListNode prev=head;
-        while(s!=null){
-            if(prev.val==s.val){
-                prev.next=s.next;
-                s=s.next;
+        ListNode i=head;
+        ListNode j=head;
+        while(j!=null){
+            if(i.val==j.val){
+                j=j.next;
             }
             else{
-                
-                prev=s;
-                s=s.next;
+                i.next=j;
+                i=j;
             }
-            
+           
         }
+        i.next=j;
         return head;
     }
 }
