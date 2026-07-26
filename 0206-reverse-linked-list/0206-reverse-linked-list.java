@@ -10,20 +10,32 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-        if(head==null){
-            return head;
+        // if(head==null){
+        //     return head;
+        // }
+        // ArrayList<ListNode> a1=new ArrayList<>();
+        // ListNode temp=head;
+        // while(temp!=null){
+        //     a1.add(temp);
+        //     temp=temp.next;
+        // }
+        // int n=a1.size();
+        // for(int i=n-1;i>=1;i--){
+        //     a1.get(i).next=a1.get(i-1);
+        // }
+        // a1.get(0).next=null;
+        // return a1.get(n-1);
+
+        // approach 2
+        ListNode prev=null;
+        ListNode f=null;
+        ListNode c=head;
+        while(c!=null){
+            f=c.next;
+            c.next=prev;
+            prev=c;
+            c=f;
         }
-        ArrayList<ListNode> a1=new ArrayList<>();
-        ListNode temp=head;
-        while(temp!=null){
-            a1.add(temp);
-            temp=temp.next;
-        }
-        int n=a1.size();
-        for(int i=n-1;i>=1;i--){
-            a1.get(i).next=a1.get(i-1);
-        }
-        a1.get(0).next=null;
-        return a1.get(n-1);
+        return prev;
     }
 }
