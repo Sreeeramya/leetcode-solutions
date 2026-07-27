@@ -69,7 +69,6 @@ class Solution {
         ListNode b=null;
         ListNode after_right=null;
         while(c!=right){
-            b=temp;
             temp=temp.next;
             c++;
         }
