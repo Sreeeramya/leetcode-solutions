@@ -10,7 +10,7 @@ class Solution {
             h2.add(a);
         }
         for(String s:str){
-            if(!h2.contains(s)){
+            if(!s.isEmpty() && !h2.contains(s)){
                 h1.put(s,h1.getOrDefault(s,0)+1);
             }
         }
