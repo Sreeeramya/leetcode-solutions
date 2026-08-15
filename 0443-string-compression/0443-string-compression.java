@@ -1,8 +1,6 @@
 class Solution {
     public int compress(char[] chars) {
-        if(chars.length==1){
-            return 1;
-        }
+        
         StringBuilder str=new StringBuilder();
         int i=0;
         int j=0;
