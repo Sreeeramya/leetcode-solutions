@@ -46,9 +46,7 @@ class Solution {
         Node temp2=head2;
         while(temp1!=null && temp2!=null){
             if(temp1.random!=null)temp2.random=temp1.random.next;
-            else{
-                temp2.random=null;
-            }
+            
             temp1=temp1.next.next;
             if(temp2.next!=null)temp2=temp1.next;
         }
