@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2895-minimum-processing-time](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2895-minimum-processing-time) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2895-minimum-processing-time](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2895-minimum-processing-time) |
 | [2938-separate-black-and-white-balls](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2938-separate-black-and-white-balls) |
 ## Linked List
 |  |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1859-sorting-the-sentence](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
+| [2895-minimum-processing-time](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2895-minimum-processing-time) |
 ## Two Pointers
 |  |
 | ------- |
