@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0860-lemonade-change) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [0670-maximum-swap](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0670-maximum-swap) |
 | [0973-k-closest-points-to-origin](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
