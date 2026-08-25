@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-capitalize-the-title](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2129-capitalize-the-title) |
 | [2211-count-collisions-on-a-road](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2278-percentage-of-letter-in-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
