@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2895-minimum-processing-time](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2895-minimum-processing-time) |
+| [2942-find-words-containing-character](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2938-separate-black-and-white-balls](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2938-separate-black-and-white-balls) |
+| [2942-find-words-containing-character](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3110-score-of-a-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
