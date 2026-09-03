@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3131-find-the-integer-added-to-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Sorting
 |  |
 | ------- |
