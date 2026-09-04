@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0057-insert-interval) |
@@ -877,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0090-subsets-ii) |
 ## Quicksort
@@ -899,4 +901,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
