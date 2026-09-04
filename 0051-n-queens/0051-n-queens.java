@@ -9,7 +9,6 @@ class Solution {
         if(r==board.length){
             List<List<String>> l2=new ArrayList<>();
             l2.add(display(board));
-            System.out.println();
             return l2;
         }
         int c=0;
