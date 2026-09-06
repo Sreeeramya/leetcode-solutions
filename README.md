@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0606-construct-string-from-binary-tree](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0647-palindromic-substrings](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
@@ -871,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0606-construct-string-from-binary-tree](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -917,4 +919,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0037-sudoku-solver) |
+## Tree
+|  |
+| ------- |
+| [0606-construct-string-from-binary-tree](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0606-construct-string-from-binary-tree](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
 <!---LeetCode Topics End-->
