@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Sorting
 |  |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -694,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 ## Binary Search
 |  |
 | ------- |
