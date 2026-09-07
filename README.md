@@ -624,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 ## Sliding Window
 |  |
@@ -874,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0606-construct-string-from-binary-tree](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
 ## Doubly-Linked List
