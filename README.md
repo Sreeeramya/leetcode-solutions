@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1513-number-of-substrings-with-only-1s](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2698-find-the-punishment-number-of-an-integer](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
@@ -899,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [2698-find-the-punishment-number-of-an-integer](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2698-find-the-punishment-number-of-an-integer) |
 ## Quicksort
 |  |
 | ------- |
