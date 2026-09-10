@@ -885,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0606-construct-string-from-binary-tree](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -936,8 +937,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0606-construct-string-from-binary-tree](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0606-construct-string-from-binary-tree](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
