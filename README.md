@@ -886,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0606-construct-string-from-binary-tree](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
@@ -942,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -949,6 +951,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
