@@ -21,7 +21,6 @@ class Solution {
         q.add(root);
         while(!q.isEmpty()){
             int size=q.size();
-            List<Integer> l2=new ArrayList<>();
             int max=Integer.MIN_VALUE;
             while(size>0){
                 TreeNode front=q.remove();
@@ -30,8 +29,7 @@ class Solution {
                 if(front.right!=null)q.add(front.right);
                 size--;
             }
-            l2.add(max);
-            l1.addAll(l2);
+            l1.add(max);
         }
         return l1;
     }
