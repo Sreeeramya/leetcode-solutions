@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
@@ -890,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -914,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2698-find-the-punishment-number-of-an-integer) |
 ## Quicksort
 |  |
@@ -956,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0606-construct-string-from-binary-tree](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -973,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0606-construct-string-from-binary-tree](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
