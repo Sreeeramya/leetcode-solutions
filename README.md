@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0670-maximum-swap](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0670-maximum-swap) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
+| [0836-rectangle-overlap](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -874,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
