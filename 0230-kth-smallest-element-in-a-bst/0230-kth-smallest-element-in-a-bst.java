@@ -21,8 +21,8 @@ class Solution {
     }
     public void find(TreeNode root,int k,ArrayList<Integer> l1){
         if(root==null)return;
-        if(l1.size()==k)return;
         find(root.left,k,l1);
+        if(l1.size()==k)return;
         l1.add(root.val);
         find(root.right,k,l1);
     }
