@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0078-subsets) |
@@ -771,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -858,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0064-minimum-path-sum](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
