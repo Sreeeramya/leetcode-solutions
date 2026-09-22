@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0273-integer-to-english-words) |
@@ -769,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -1115,4 +1117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
