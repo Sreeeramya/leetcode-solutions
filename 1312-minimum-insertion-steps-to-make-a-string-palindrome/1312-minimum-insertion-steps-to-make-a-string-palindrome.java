@@ -1,0 +1,16 @@
+class Solution {
+    public int minInsertions(String s) {
+        int m=s.length();
+                        int dp[][]=new int[m][m];
+                        for(int i=0;i<m;i++){
+                            Arrays.fill(dp[i],-1);
+                        }
+                        return m-LCS(m-1,m-1,new StringBuilder(s),new StringBuilder(s).reverse(),dp);
+    }
+    public int LCS(int i,int j,StringBuilder a,StringBuilder b,int dp[][]){
+            if(i<0 || j<0 )return 0;
+            if(dp[i][j]!=-1)return dp[i][j];
+            if(a.charAt(i)==b.charAt(j))return dp[i][j]=1+LCS(i-1,j-1,a,b,dp);
+            else return dp[i][j]=Math.max(LCS(i-1,j,a,b,dp),LCS(i,j-1,a,b,dp));
+    }
+}
