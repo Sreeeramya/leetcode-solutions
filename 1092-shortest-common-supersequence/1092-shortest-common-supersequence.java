@@ -34,18 +34,18 @@ class Solution {
         int k1=0;
         String res="";
         while(k1<p){
-            if(str1.charAt(i1)==ans.charAt(k1) && str2.charAt(j1)==ans.charAt(k1)){
+            if(i1<m && j1<n &&str1.charAt(i1)==ans.charAt(k1) && str2.charAt(j1)==ans.charAt(k1)){
                 res+=str1.charAt(i1);
                 i1++;
                 j1++;
                 k1++;
             }
             else{
-                while(str1.charAt(i1)!=ans.charAt(k1)){
+                while(i1<m && str1.charAt(i1)!=ans.charAt(k1)){
                     res+=str1.charAt(i1);
                     i1++;
                 }
-                while(str2.charAt(j1)!=ans.charAt(k1)){
+                while(j1<n && str2.charAt(j1)!=ans.charAt(k1)){
                     res+=str2.charAt(j1);
                     j1++;
                 }
