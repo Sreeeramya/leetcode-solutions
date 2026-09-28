@@ -1,18 +1,37 @@
 class Solution {
     public int lengthOfLIS(int[] arr) {
+        //tabulation
         int n=arr.length;
-        int dp[][]=new int[n][n+1];
+        int dp[]=new int[n];
         for(int i=0;i<n;i++){
-            Arrays.fill(dp[i],-1);
+            Arrays.fill(dp,1);
         }
-        return find(0,-1,arr,dp);
+        
+        for(int i=1;i<n;i++){
+            for(int j=0;j<i;j++){
+                if(arr[j]<arr[i]){
+                    dp[i]=Math.max(dp[i],1+dp[j]);
+                }
+            }
+        }
+        int ans=0;
+        for(int i=0;i<n;i++){
+            ans=Math.max(ans,dp[i]);
+        }
+        return ans;
+        // int n=arr.length;
+        // int dp[][]=new int[n][n+1];
+        // for(int i=0;i<n;i++){
+        //     Arrays.fill(dp[i],-1);
+        // }
+        // return find(0,-1,arr,dp);
     }
-    public int find(int idx,int prev,int arr[],int dp[][]){
-        if(idx==arr.length)return 0;
-        if(dp[idx][prev+1]!=-1)return dp[idx][prev+1];
-        int skip=find(idx+1,prev,arr,dp);
-        if(prev!=-1 && arr[idx]<=arr[prev])return dp[idx][prev+1]=skip;
-        int pick=1+find(idx+1,idx,arr,dp);
-        return dp[idx][prev+1]=Math.max(pick,skip);
-    }
+    // public int find(int idx,int prev,int arr[],int dp[][]){
+    //     if(idx==arr.length)return 0;
+    //     if(dp[idx][prev+1]!=-1)return dp[idx][prev+1];
+    //     int skip=find(idx+1,prev,arr,dp);
+    //     if(prev!=-1 && arr[idx]<=arr[prev])return dp[idx][prev+1]=skip;
+    //     int pick=1+find(idx+1,idx,arr,dp);
+    //     return dp[idx][prev+1]=Math.max(pick,skip);
+    // }
 }
