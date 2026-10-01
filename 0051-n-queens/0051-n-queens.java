@@ -1,61 +1,57 @@
 class Solution {
     public List<List<String>> solveNQueens(int n) {
-        List<List<String>> ans=new ArrayList<>();
-        boolean board[][]=new boolean[n][n];
-        ans=n_queen(board,0);
+        List<List<String>> ans = new ArrayList<>();
+        char chess[][]=new char[n][n];
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+                chess[i][j]='.';
+            }
+        }
+        queens(0,chess,ans);
         return ans;
     }
-    public List<List<String>> n_queen(boolean board[][],int r){
-        if(r==board.length){
-            List<List<String>> l2=new ArrayList<>();
-            l2.add(display(board));
-            return l2;
+    private static void queens(int row, char[][] chess,List<List<String>> ans) {
+        int n=chess.length;
+        if(row == n){
+            List<String> list = new ArrayList<>();
+
+            for(int i = 0; i < n; i++){
+                list.add(new String(chess[i]));
+            }
+
+            ans.add(list);
+            return;
         }
-        int c=0;
-        List<List<String>> ans=new ArrayList<>();
-        for(int col=0;col<board.length;col++){
-            if(is_safe(board,r,col)){
-                board[r][col]=true;
-                ans.addAll(n_queen(board,r+1));
-                board[r][col]=false;
+        for(int col=0;col<n;col++){
+            if(safe(row,col,chess)){
+                chess[row][col]='Q';
+                queens(row+1,chess,ans);
+                chess[row][col]='.';
             }
         }
-        return ans;
     }
-    public boolean is_safe(boolean board[][],int r,int c){
-        for(int i=0;i<r;i++){
-            if(board[i][c]){
-                return false;
-            }
+
+    private static boolean safe(int row, int col, char[][] chess) {
+        int n=chess.length;
+        int i=row-1;
+        while(i>=0){
+            if(chess[i][col]=='Q')return false;
+            i--;
         }
-        int max_left=Math.min(r,c);
-        for(int i=1;i<=max_left;i++){
-            if(board[r-i][c-i]){
-                return false;
-            }
+        i=row-1;
+        int j=col-1;
+        while(i>=0 && j>=0){
+            if(chess[i][j]=='Q')return false;
+            i--;
+            j--;
         }
-        int max_right=Math.min(r,board.length-c-1);
-        for(int i=1;i<=max_right;i++){
-            if(board[r-i][c+i]){
-                return false;
-            }
+        i=row-1;
+        j=col+1;
+        while(i>=0 && j<n){
+            if(chess[i][j]=='Q')return false;
+            i--;
+            j++;
         }
         return true;
-    }
-    public List<String> display(boolean board[][]){
-        List<String> l1=new ArrayList<>();
-        for(boolean row[]:board){
-            String s="";
-            for(boolean elem :row){
-                if(elem){
-                    s+="Q";
-                }
-                else{
-                    s+=".";
-                }
-            }
-            l1.add(s);
-        }
-        return l1;
     }
 }
