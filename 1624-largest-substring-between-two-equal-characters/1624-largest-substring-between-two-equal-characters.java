@@ -1,6 +1,5 @@
 class Solution {
     static int max;
-    boolean found=false;
     public int maxLengthBetweenEqualCharacters(String s) {
         max=-1;
         char arr[]=s.toCharArray();
@@ -10,7 +9,6 @@ class Solution {
         }
         for(char ch:h1.keySet()){
             if(h1.get(ch)>=2){
-                found=true;
                 find_long(arr,ch);
             }
         }
