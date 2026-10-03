@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [1592-rearrange-spaces-between-words](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1592-rearrange-spaces-between-words) |
 | [1598-crawler-log-folder](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1598-crawler-log-folder) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1436-destination-city) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
