@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1328-break-a-palindrome](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1328-break-a-palindrome) |
 | [1332-remove-palindromic-subsequences](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1332-remove-palindromic-subsequences) |
 | [1370-increasing-decreasing-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1370-increasing-decreasing-string) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1328-break-a-palindrome](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1328-break-a-palindrome) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
