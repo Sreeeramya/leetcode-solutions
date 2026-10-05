@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [1592-rearrange-spaces-between-words](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1592-rearrange-spaces-between-words) |
 | [1598-crawler-log-folder](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1598-crawler-log-folder) |
+| [1616-split-two-strings-to-make-palindrome](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0986-interval-list-intersections) |
 | [1332-remove-palindromic-subsequences](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1332-remove-palindromic-subsequences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1616-split-two-strings-to-make-palindrome](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1813-sentence-similarity-iii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1813-sentence-similarity-iii) |
