@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1436-destination-city](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1436-destination-city) |
 | [1446-consecutive-characters](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1859-sorting-the-sentence](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
