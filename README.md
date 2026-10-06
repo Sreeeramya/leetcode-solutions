@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -826,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0213-house-robber-ii) |
@@ -1033,6 +1035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0494-target-sum) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2698-find-the-punishment-number-of-an-integer) |
