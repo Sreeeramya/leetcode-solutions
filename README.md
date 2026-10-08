@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2278-percentage-of-letter-in-string) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -689,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -748,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
