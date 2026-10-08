@@ -397,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2895-minimum-processing-time](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2895-minimum-processing-time) |
 | [2938-separate-black-and-white-balls](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2938-separate-black-and-white-balls) |
 ## Linked List
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1513-number-of-substrings-with-only-1s](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
