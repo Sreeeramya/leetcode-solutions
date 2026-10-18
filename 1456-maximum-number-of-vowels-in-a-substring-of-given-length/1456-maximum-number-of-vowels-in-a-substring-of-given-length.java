@@ -1,25 +1,23 @@
 class Solution {
     public int maxVowels(String s, int k) {
-        int i=0;
-        int j=0;
+        HashSet<Character> h1=new HashSet<>();
+        h1.add('a');
+        h1.add('e');
+        h1.add('i');
+        h1.add('o');
+        h1.add('u');
         int c=0;
-        int max=Integer.MIN_VALUE;
-        while(j<s.length()){
-            if("aeiou".indexOf(s.charAt(j))!=-1){
-                c++;
-            }
-            if(j-i+1<k){
-                j++;
-            }
-            else if(j-i+1==k){
-                max=Math.max(c,max);
-                if ("aeiou".indexOf(s.charAt(i))!=-1) {
-                    c--;
-                }
-                i++;
-                j++;
-            }
-            
+        for(int i=0;i<k;i++){
+            if(h1.contains(s.charAt(i)))c++;
+        }
+        int max=c;
+        
+        for(int i=k;i<s.length();i++){
+            char ch1=s.charAt(i-k);
+            if(h1.contains(ch1))c--;
+            char ch2=s.charAt(i);
+            if(h1.contains(ch2))c++;
+            max=Math.max(max,c);
         }
         return max;
     }
