@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1046-last-stone-weight](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1051-height-checker) |
+| [1052-grumpy-bookstore-owner](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1095-find-in-mountain-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 | [1122-relative-sort-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -723,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1052-grumpy-bookstore-owner](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
