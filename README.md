@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3131-find-the-integer-added-to-array-i) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
@@ -748,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Counting
 |  |
 | ------- |
