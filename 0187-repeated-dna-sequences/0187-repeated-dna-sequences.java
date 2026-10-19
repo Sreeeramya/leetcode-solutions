@@ -7,7 +7,7 @@ class Solution {
         for(int i=1;i<=s.length()-10;i++){
             String str=s.substring(i,i+10);
             if(h1.contains(str)){
-                if(!l1.contains(str))l1.add(s.substring(i,i+10));
+                if(!l1.contains(str))l1.add(str);
             }
             h1.add(str);
         }
