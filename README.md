@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3206-alternating-groups-i](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3206-alternating-groups-i) |
+| [3208-alternating-groups-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3208-alternating-groups-ii) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -753,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3206-alternating-groups-i](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3206-alternating-groups-i) |
+| [3208-alternating-groups-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3208-alternating-groups-ii) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Counting
 |  |
