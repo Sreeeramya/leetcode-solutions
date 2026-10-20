@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3110-score-of-a-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3110-score-of-a-string) |
+| [3456-find-special-substring-of-length-k](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3456-find-special-substring-of-length-k) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 | [3813-vowel-consonant-score](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3813-vowel-consonant-score) |
