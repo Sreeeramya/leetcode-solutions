@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0409-longest-palindrome) |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0229-majority-element-ii) |
