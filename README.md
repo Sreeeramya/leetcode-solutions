@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-percentage-of-letter-in-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2278-percentage-of-letter-in-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2315-count-asterisks](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2315-count-asterisks) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2390-removing-stars-from-a-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
