@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3110-score-of-a-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3110-score-of-a-string) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3456-find-special-substring-of-length-k](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3456-find-special-substring-of-length-k) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
@@ -734,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 ## Trie
 |  |
 | ------- |
