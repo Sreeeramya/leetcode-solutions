@@ -4,9 +4,6 @@ class Solution {
             int idx=s.indexOf("abc");
             s=s.substring(0,idx)+s.substring(idx+3);
         }
-        if(s.isEmpty()){
-            return true;
-        }
-        return false;
+        return s.isEmpty();
     }
 }
