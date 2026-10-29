@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2191-sort-the-jumbled-numbers](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2191-sort-the-jumbled-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2256-minimum-average-difference](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2256-minimum-average-difference) |
+| [2303-calculate-amount-paid-in-taxes](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2460-apply-operations-to-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -903,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2211-count-collisions-on-a-road](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
+| [2303-calculate-amount-paid-in-taxes](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2390-removing-stars-from-a-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
