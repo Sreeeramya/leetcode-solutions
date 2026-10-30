@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2895-minimum-processing-time](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2895-minimum-processing-time) |
@@ -915,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2390-removing-stars-from-a-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3028-ant-on-the-boundary](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3028-ant-on-the-boundary) |
