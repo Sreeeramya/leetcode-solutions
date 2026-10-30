@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2895-minimum-processing-time](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2895-minimum-processing-time) |
 | [2942-find-words-containing-character](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2942-find-words-containing-character) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2566-maximum-difference-by-remapping-a-digit) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2895-minimum-processing-time](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2895-minimum-processing-time) |
 | [2938-separate-black-and-white-balls](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2938-separate-black-and-white-balls) |
 ## Linked List
