@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3028-ant-on-the-boundary](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3028-ant-on-the-boundary) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3206-alternating-groups-i](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3206-alternating-groups-i) |
 | [3208-alternating-groups-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3208-alternating-groups-ii) |
@@ -653,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2938-separate-black-and-white-balls](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2938-separate-black-and-white-balls) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3794-reverse-string-prefix](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## Recursion
 |  |
@@ -921,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2960-count-tested-devices-after-test-operations](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3028-ant-on-the-boundary](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3028-ant-on-the-boundary) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3813-vowel-consonant-score](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3813-vowel-consonant-score) |
 ## Dynamic Programming
