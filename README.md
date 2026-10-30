@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1408-string-matching-in-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
 | [1436-destination-city](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1436-destination-city) |
@@ -900,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1646-get-maximum-in-generated-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1646-get-maximum-in-generated-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
