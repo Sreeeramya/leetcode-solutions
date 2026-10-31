@@ -520,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1688-count-of-matches-in-tournament](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -913,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1646-get-maximum-in-generated-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1646-get-maximum-in-generated-array) |
+| [1688-count-of-matches-in-tournament](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
