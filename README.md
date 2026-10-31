@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1817-finding-the-users-active-minutes](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1817-finding-the-users-active-minutes) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1920-build-array-from-permutation](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -926,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1920-build-array-from-permutation](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2079-watering-plants](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2079-watering-plants) |
