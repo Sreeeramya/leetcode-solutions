@@ -523,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2652-sum-multiples](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2698-find-the-punishment-number-of-an-integer) |
