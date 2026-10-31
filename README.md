@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2191-sort-the-jumbled-numbers](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2191-sort-the-jumbled-numbers) |
 | [2785-sort-vowels-in-a-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2895-minimum-processing-time](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2895-minimum-processing-time) |
@@ -847,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
