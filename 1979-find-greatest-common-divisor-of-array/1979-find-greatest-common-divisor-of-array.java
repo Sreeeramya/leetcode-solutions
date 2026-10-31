@@ -7,7 +7,7 @@ class Solution {
             s=Math.min(s,a);
             e=Math.max(e,a);
         }
-        for(int i=1;i<=e;i++){
+        for(int i=1;i<=s;i++){
             if(s%i==0 && e%i==0){
                 max=i;
             }
