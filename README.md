@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1332-remove-palindromic-subsequences](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1332-remove-palindromic-subsequences) |
 | [1370-increasing-decreasing-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1370-increasing-decreasing-string) |
 | [1408-string-matching-in-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1436-destination-city](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1436-destination-city) |
 | [1446-consecutive-characters](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1446-consecutive-characters) |
@@ -1002,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1991-find-the-middle-index-in-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2256-minimum-average-difference](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2256-minimum-average-difference) |
 | [2270-number-of-ways-to-split-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2270-number-of-ways-to-split-array) |
