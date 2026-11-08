@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -921,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -1088,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Sweep Line
 |  |
