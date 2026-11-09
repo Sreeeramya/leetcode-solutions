@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1817-finding-the-users-active-minutes](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1817-finding-the-users-active-minutes) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1895-largest-magic-square](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [1920-build-array-from-permutation](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -1022,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1895-largest-magic-square](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [1991-find-the-middle-index-in-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2256-minimum-average-difference](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2256-minimum-average-difference) |
 | [2270-number-of-ways-to-split-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2270-number-of-ways-to-split-array) |
@@ -1102,6 +1104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-minimum-falling-path-sum-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1895-largest-magic-square](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [2352-equal-row-and-column-pairs](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Sweep Line
