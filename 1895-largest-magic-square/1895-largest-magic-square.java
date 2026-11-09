@@ -20,12 +20,7 @@ class Solution {
                             break;
                         }
                     }
-                    int t=sum1;
-                    sum1=0;
-                    for(int r=i;r<i+k;r++){
-                        sum1+=grid[r][j];
-                    }
-                    for(int c=j+1;c<j+k;c++){
+                    for(int c=j;c<j+k;c++){
                         int c_sum=0;
                         for(int r=i;r<i+k;r++){
                             c_sum+=grid[r][c];
@@ -35,9 +30,6 @@ class Solution {
                             break;
                         }
                     }
-                    if(t!=sum1){
-                        valid=false;
-                    }
                     int d1=0;
                     int d2=0;
                     for(int v=0;v<k;v++){
@@ -46,7 +38,7 @@ class Solution {
                     for(int v=0;v<k;v++){
                         d2+=grid[i+v][j+k-1-v];
                     }
-                    if(d1!=t || d2!=t){
+                    if(d1!=sum1 || d2!=sum1){
                         valid=false;
                     }
                     if(valid)return k;
