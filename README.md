@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2256-minimum-average-difference](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2256-minimum-average-difference) |
 | [2270-number-of-ways-to-split-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2270-number-of-ways-to-split-array) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2303-calculate-amount-paid-in-taxes) |
+| [2352-equal-row-and-column-pairs](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2460-apply-operations-to-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -790,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2352-equal-row-and-column-pairs](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
@@ -950,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2211-count-collisions-on-a-road](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2303-calculate-amount-paid-in-taxes) |
+| [2352-equal-row-and-column-pairs](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -1095,6 +1098,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-minimum-falling-path-sum-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2352-equal-row-and-column-pairs](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Sweep Line
 |  |
