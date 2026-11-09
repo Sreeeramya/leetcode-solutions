@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -689,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2938-separate-black-and-white-balls](https://github.com/Sreeeramya/leetcode-solutions/tree/master/2938-separate-black-and-white-balls) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3794-reverse-string-prefix](https://github.com/Sreeeramya/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
