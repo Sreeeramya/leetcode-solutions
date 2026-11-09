@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0819-most-common-word](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0819-most-common-word) |
+| [0840-magic-squares-in-grid](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0861-score-after-flipping-matrix](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0861-score-after-flipping-matrix) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0670-maximum-swap) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [0836-rectangle-overlap](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [0840-magic-squares-in-grid](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [0973-k-closest-points-to-origin](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -753,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [0819-most-common-word](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0819-most-common-word) |
+| [0840-magic-squares-in-grid](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [0859-buddy-strings](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0888-fair-candy-swap](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0888-fair-candy-swap) |
@@ -1091,6 +1094,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0766-toeplitz-matrix](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [0861-score-after-flipping-matrix](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0861-score-after-flipping-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/Sreeeramya/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1267-count-servers-that-communicate](https://github.com/Sreeeramya/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
